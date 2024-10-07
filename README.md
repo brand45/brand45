@@ -1,5 +1,7 @@
-## Hi there my name is Brandon, and ever since I was a kid growing up I loved learning 
-about computers and how they work.👋
+## Hi there my name is Brandon 
+
+I am 21 years old and am still learning more about computer science.
+Ever since I was a kid growing up I loved learning about computers and how they work.👋
 This has helped me define what I want to do at the University of Illinois at Chicago in pursuit of my cs degree 
 where I intend to learn many computer languages that could help me with my goal of my degree.
 I’m currently looking forward to graduation, I have started trying to learn more about C++ and the advantages it comes with, and also want to start learning Java. 
